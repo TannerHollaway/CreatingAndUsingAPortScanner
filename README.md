@@ -41,55 +41,26 @@ Main Execution Block: <br/>
 
 <p align="center">
 This script efficiently scans a range of ports on a specified IP address using multithreading to speed up the process. It provides a list of open ports, which can be useful for network security assessments and troubleshooting.: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
+<img src="https://i.imgur.com/c3RIcyb.png" height="80%" width="80%" alt="Port Scanner and Usage"/>
 <br />
 <br />
 
 <p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
+Now I'll just go though and close, then open a random port to further test the port scanner. And to do that I'll head into my firewall settings: <br/> 
+<img src="https://i.imgur.com/z9usZAa.png" height="80%" width="80%" alt="Port Scanner and Usage"/>
 <br />
 <br />
 
 <p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
+Then I'll go ahead and block port 21, 22, and 23: <br/> 
+<img src="https://i.imgur.com/AKTK8Q5.png" height="80%" width="80%" alt="Port Scanner and Usage"/>
 <br />
 <br />
 
 <p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
+And just like that, the ports have been blocked: <br/> 
+<img src="https://i.imgur.com/L0rYnJF.png" height="80%" width="80%" alt="Port Scanner and Usage"/>
 <br />
 <br />
 
-<p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
-<br />
-<br />
-
-<p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
-<br />
-<br />
-
-<p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
-<br />
-<br />
-
-<p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
-<br />
-<br />
-
-<p align="center">
-What is happening: <br/> 
-<img src="Image" height="80%" width="80%" alt="Port Scanner and Usage"/>
-<br />
-<br />
 
